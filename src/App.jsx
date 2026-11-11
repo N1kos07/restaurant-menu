@@ -5,7 +5,7 @@ import CategoryButtons from './CategoryButtons';
 import menuData from './menuData';
 import DailySpecial from './DailySpecial';
 import Cart from './Cart';
-import cartReducer from './cartReducer';
+import cartReducer from './CartReducer';
 import { useState } from 'react';
 import { useReducer } from 'react';
 
